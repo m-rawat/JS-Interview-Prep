@@ -1,0 +1,1 @@
+To get an array of names from the higherBandDesignations, you can simply map over the resulting array to extract the name property of each designation. Here’s how you can modify your existing code to achieve that:
